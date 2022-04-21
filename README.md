@@ -1,11 +1,11 @@
-#ONLINE POKEDEX
+# ONLINE POKEDEX
 ***
 
 This repository contains a online pokedex that use the PokeAPI to show every information about the pokemon and
 the QuickChart API to generate a stats graph also for the pokemon. 
 
-##HOW TO USE IT
-##WARNING : The website work only on desktop
+## HOW TO USE IT
+## WARNING : The website work only on desktop
 
 If you are intending of using my pokedex here is some tips. 
 
@@ -20,12 +20,12 @@ If you are looking for a specific pokemon there's a searchbar at the end of the 
 
 You can also click on one of the type box (ex GRASS) and this will show every pokemon with this type.
 
-###Once you got the pokemon you are looking for on the right box 
+### Once you got the pokemon you are looking for on the right box 
 You can click on his name to see his evolution chain and also all the moves he can learn.
 
 It's my second time building a pokedex so it's not perfect but a lot better than the first one
 
-##FIRST VERSION : [HERE](https://pokev1.elyes-voisin.tk/)
+## FIRST VERSION : [HERE](https://pokedex-api-v1.vercel.app/)
 
-##LAST VERSION : [HERE](https://pokedex.elyes-voisin.tk/)
+## LAST VERSION : [HERE](https://pokedex-api-phi.vercel.app/)
 
